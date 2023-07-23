@@ -1,0 +1,15 @@
+D:\Nova pasta\TesteMatri\TesteMatri\bin\Debug\net7.0\TesteMatri.exe
+D:\Nova pasta\TesteMatri\TesteMatri\bin\Debug\net7.0\TesteMatri.deps.json
+D:\Nova pasta\TesteMatri\TesteMatri\bin\Debug\net7.0\TesteMatri.runtimeconfig.json
+D:\Nova pasta\TesteMatri\TesteMatri\bin\Debug\net7.0\TesteMatri.dll
+D:\Nova pasta\TesteMatri\TesteMatri\bin\Debug\net7.0\TesteMatri.pdb
+D:\Nova pasta\TesteMatri\TesteMatri\obj\Debug\net7.0\TesteMatri.csproj.AssemblyReference.cache
+D:\Nova pasta\TesteMatri\TesteMatri\obj\Debug\net7.0\TesteMatri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\TesteMatri\TesteMatri\obj\Debug\net7.0\TesteMatri.AssemblyInfoInputs.cache
+D:\Nova pasta\TesteMatri\TesteMatri\obj\Debug\net7.0\TesteMatri.AssemblyInfo.cs
+D:\Nova pasta\TesteMatri\TesteMatri\obj\Debug\net7.0\TesteMatri.csproj.CoreCompileInputs.cache
+D:\Nova pasta\TesteMatri\TesteMatri\obj\Debug\net7.0\TesteMatri.dll
+D:\Nova pasta\TesteMatri\TesteMatri\obj\Debug\net7.0\refint\TesteMatri.dll
+D:\Nova pasta\TesteMatri\TesteMatri\obj\Debug\net7.0\TesteMatri.pdb
+D:\Nova pasta\TesteMatri\TesteMatri\obj\Debug\net7.0\TesteMatri.genruntimeconfig.cache
+D:\Nova pasta\TesteMatri\TesteMatri\obj\Debug\net7.0\ref\TesteMatri.dll
